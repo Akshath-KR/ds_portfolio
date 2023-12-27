@@ -3,9 +3,10 @@
 ## Machine Learning
 ### Boom-Bikes
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
+
 This project is all about to model the demand for shared bikes with the available factors, which can be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
-<img src="assets/img/loan-default.jpg" width="500" height="300">
+<img src="assets/img/istockphoto-618973378-612x612.jpg" width="500" height="300">
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Bank-Loan-Defaulter/tree/main)
 
