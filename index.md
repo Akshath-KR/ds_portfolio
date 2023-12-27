@@ -8,7 +8,7 @@ This project is all about to model the demand for shared bikes with the availabl
 
 <img src="assets/img/istockphoto-618973378-612x612.jpg" width="500" height="300">
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Boom-Bikes))
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Boom-Bikes)
 
 ### Bank Loan Defaulter
 
