@@ -1,7 +1,16 @@
 # Data Science Case Studies
 ----------------------------
 ## Machine Learning
-### Telecom Churn Predictions
+### Employee Retention Prediction
+Retaining employees is vital as hiring incurs substantial costs and time. Small businesses spend 40% of working hours on non-income tasks like hiring. Companies allocate 15%-20% of an employee's salary to recruitment, costing an average of $7645. Onboarding consumes 1%-2.5% of total revenue, taking 52 days on average to fill a position. Utilizing predictive models based on factors like Job Involvement, Education, and Job Satisfaction can optimize retention strategies, enhancing workforce stability and productivity. This project is all about predicting employee exit based on certain factors as well as extracting important feature that companies can look after for effective employee retention.
+
+<img src="assets/img/94357telecom churn.png" width="500" height="300">
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Telecom-Churn-Prediction)
+
+
+
+### Telecom Churn Prediction
 In the fiercely competitive telecom industry with a 15-25% annual churn rate, retaining high-profit customers is paramount. This project involves analyzing customer data, creating predictive models, and pinpointing key indicators of churn to help telecom companies proactively retain customers, recognizing that retaining customers is more cost-effective than acquiring new ones.
 
 <img src="assets/img/94357telecom churn.png" width="500" height="300">
