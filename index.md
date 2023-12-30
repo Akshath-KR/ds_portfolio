@@ -4,10 +4,9 @@
 ### Telecom Churn Predictions
 In the fiercely competitive telecom industry with a 15-25% annual churn rate, retaining high-profit customers is paramount. This project involves analyzing customer data, creating predictive models, and pinpointing key indicators of churn to help telecom companies proactively retain customers, recognizing that retaining customers is more cost-effective than acquiring new ones.
 
-<img src="assets/img/AdobeStock_134281882_t4nlpx.jpg" width="500" height="300">
+<img src="assets/img/94357telecom churn.png" width="500" height="300">
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Lead-Scoring)
-
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Telecom-Churn-Prediction)
 
 
 ### Lead Scoring
