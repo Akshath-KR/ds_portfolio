@@ -6,7 +6,7 @@ The Educational services company markets its courses on several websites and sea
 
 This project aims to identify the most potential leads based on their information and interactivity. If the leads are identified successfully, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone. 
 
-<img src="assets/img/istockphoto-618973378-612x612.jpg" width="500" height="300">
+<img src="assets/img/AdobeStock_134281882_t4nlpx.jpg" width="500" height="300">
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Boom-Bikes)
 
