@@ -8,7 +8,7 @@ This project aims to identify the most potential leads based on their informatio
 
 <img src="assets/img/AdobeStock_134281882_t4nlpx.jpg" width="500" height="300">
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Boom-Bikes)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Lead-Scoring)
 
 ### Boom-Bikes
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
