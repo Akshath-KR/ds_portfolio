@@ -1,6 +1,14 @@
 # Data Science Case Studies
 ----------------------------
 ## Machine Learning
+### Marketing Segmentataion: Bank Customers
+This project aims to analyze the behavior of bank customers through an examination of their transaction history. The primary objective is to gain insights into customer segments and patterns, facilitating the development of targeted marketing campaigns tailored to specific transactional characteristics.
+
+<img src="assets/img/customer-segmentation-models-social.jpg" width="500" height="300">
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Marketing-Department)
+
+
 ### Employee Retention Prediction
 Retaining employees is vital as hiring incurs substantial costs and time. Small businesses spend 40% of working hours on non-income tasks like hiring. Companies allocate 15%-20% of an employee's salary to recruitment, costing an average of $7645. Onboarding consumes 1%-2.5% of total revenue, taking 52 days on average to fill a position. Utilizing predictive models based on factors like Job Involvement, Education, and Job Satisfaction can optimize retention strategies, enhancing workforce stability and productivity. This project is all about predicting employee exit based on certain factors as well as extracting important feature that companies can look after for effective employee retention.
 
