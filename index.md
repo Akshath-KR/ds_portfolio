@@ -50,12 +50,5 @@ Banks find it hard to give loans to the people due to their insufficient or non-
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Akshath-KR/Bank-Loan-Defaulter/tree/main)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
-```
-The final element.
-```
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
